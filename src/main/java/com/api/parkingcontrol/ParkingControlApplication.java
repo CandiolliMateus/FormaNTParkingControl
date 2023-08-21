@@ -17,4 +17,7 @@ public class ParkingControlApplication {
 	public String index() {
 		return "Olá mundo!";
 	}
+	public String index02() {
+		return "FAZENDO UMA ALTERAÇÃO PARA TENTAR FAZER COMMIT E PUSH NO GITHUB";
+	}
 }
